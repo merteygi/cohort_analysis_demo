@@ -1,0 +1,8 @@
+# just simply list down all the libraries. You can include the version too
+pandas
+numpy
+streamlit
+matplotlib
+seaborn
+datetime
+plotly
